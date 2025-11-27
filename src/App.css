@@ -1,0 +1,10 @@
+body { background: rgb(243, 245, 250); }
+.hero {
+ background-image: url("./assets/bg.png");
+ width: "50%";
+  background-size: cover;
+  background-position: center;
+  padding: 100px 0;
+}
+.card-service { border: none; border-radius: 12px; box-shadow: 0 6px 20px rgba(0,0,0,0.08); }
+.chatbot-floating { position: fixed; right: 20px; bottom: 20px; z-index: 9999; }
